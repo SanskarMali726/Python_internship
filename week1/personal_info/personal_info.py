@@ -10,7 +10,6 @@ print("    PERSONAL INFORMATION MANAGER")
 print("=" * 40)
 print()
 
-
 name = "Sanskar Mali"
 age = 21
 city = "Pune"

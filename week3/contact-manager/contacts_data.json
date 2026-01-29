@@ -1,0 +1,18 @@
+{
+    "hussen": {
+        "phone": "9090909090",
+        "email": "hussen@shaik.com",
+        "address": "dubai",
+        "group": "Friends",
+        "created_at": "2026-01-27T20:30:26.146438",
+        "updated_at": "2026-01-27T20:34:42.887850"
+    },
+    "vaibhav": {
+        "phone": "7070707070",
+        "email": null,
+        "address": "dubai",
+        "group": "Friends",
+        "created_at": "2026-01-27T20:31:12.407757",
+        "updated_at": "2026-01-27T20:31:12.407757"
+    }
+}

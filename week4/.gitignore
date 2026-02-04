@@ -1,0 +1,5 @@
+expenses.csv
+expenses_backup.json
+.venv
+.pytest_cache
+__pycache__
